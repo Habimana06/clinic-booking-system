@@ -47,7 +47,7 @@ The system is composed of the following tables:
 1. **Clone the repository**:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/clinic-booking-system.git
+git clone https://github.com/Habimana06/clinic-booking-system.git
 cd clinic-booking-system
 
 
